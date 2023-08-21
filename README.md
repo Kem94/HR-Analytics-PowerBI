@@ -1,4 +1,7 @@
 # HR Analytics Dashboard using PowerBI
+
+![powerbi logo](images/powerbi_logo.png)
+
 Welcome to the HR Analytics Dashboard project repository! This project is focused on analyzing Human Resources data obtained from Kaggle, specifically the dataset provided by IBM Data Scientists. The project utilizes PowerBI for data visualization and analysis, highlighting various HR metrics and insights. The dashboard showcases Attrition metrics across different dimensions as well as Job Satisfaction ratings across different professions and age groups.
 Table of Contents
 
@@ -31,9 +34,13 @@ Key Metrics Explored
 Visualization
 
 The visualization was accomplished using PowerBI's versatile tools, allowing for clear and insightful representations of the key HR metrics. The dashboard showcases these metrics through various charts, graphs, and card visuals, all of which provide an at-a-glance view of the data trends.
+
 Dashboard Interactivity
 
 The dashboard has been designed with interactivity in mind. Users can filter and slice the data to gain deeper insights by interacting with the visual elements. The dashboard provides a user-friendly experience to explore the HR analytics data from different angles.
+
+![dashboard preview](images/hr_shot.png)
+
 Getting Started
 
 To explore the HR Analytics Dashboard, follow these steps:
